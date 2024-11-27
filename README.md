@@ -1,6 +1,6 @@
 ﻿# Attendence_Management
 <h1 align="center">
-    SCHOOL MANAGEMENT SYSTEM
+    Attendence MANAGEMENT SYSTEM
 </h1>
 
 <h3 align="center">
